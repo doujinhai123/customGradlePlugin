@@ -5,11 +5,6 @@ import org.gradle.api.Project
 import java.util.regex.Pattern
 
 /**
- * Created by LiYong on 2018/9/19
- *
- * Email:liyong@qiyi.com / lee131483@gmail.com
- *
- * 插件的扩展参数,即在build.gradle配置的额外参数
  *
  */
 class PluginExtension {

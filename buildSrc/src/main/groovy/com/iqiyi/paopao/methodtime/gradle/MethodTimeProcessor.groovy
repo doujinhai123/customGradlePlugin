@@ -11,9 +11,6 @@ import java.util.regex.Pattern
 import java.util.zip.ZipEntry
 
 /**
- * Created by LiYong on 2018/9/19
- *
- * Email:liyong@qiyi.com / lee131483@gmail.com
  */
 class MethodTimeProcessor {
     static PluginExtension extension

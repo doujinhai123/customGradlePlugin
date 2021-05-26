@@ -6,9 +6,7 @@ import java.util.regex.Pattern
 
 
 /**
- * Created by LiYong on 2018/9/19
- *
- * Email:liyong@qiyi.com / lee131483@gmail.com
+
  *
  */
 class ExtensionHelper {

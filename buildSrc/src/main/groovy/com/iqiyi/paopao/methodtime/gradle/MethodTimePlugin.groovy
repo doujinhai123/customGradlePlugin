@@ -7,10 +7,6 @@ import org.gradle.api.Project
 
 
 /**
- * Created by LiYong on 2018/9/19
- *
- * Email:liyong@qiyi.com / lee131483@gmail.com
- *
  * 统计方法执行时间的gradle插件
  */
 class MethodTimePlugin implements Plugin<Project> {
